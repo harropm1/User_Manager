@@ -22,7 +22,7 @@ let logStatus = "Failure";
 let logMessage = "";
 
 //validation
-if (command.match(/-/g)) 
+if (command == undefined || command.match(/-/g)) 
 {
     //no command is sent
     logMessage = "Command not found";

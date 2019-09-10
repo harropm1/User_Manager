@@ -32,3 +32,7 @@ info [Tue Sep 10 2019 10:45:28 GMT-0400 (Eastern Daylight Time)]  App accessed b
 info [Tue Sep 10 2019 10:46:02 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - User not created: Duplicate User (FooBar) found
 
 info [Tue Sep 10 2019 10:46:38 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - invalid credentials
+
+info [Tue Sep 10 2019 11:00:09 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - User not created: Duplicate User (FooBar) found
+
+info [Tue Sep 10 2019 11:00:39 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - Command not found
